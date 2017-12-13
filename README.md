@@ -1,7 +1,7 @@
 # Real-Time-Chat-App-With-NodeJS
 Real time chat app with nodeJS (express, socket) that support multiple clients
 
-Initializing an Express app:
+<h2>Initializing an Express app:</h2>
 -Install Node.js https://nodejs.org/en/
 -Install Express https://expressjs.com/
 -Install Express Generator https://expressjs.com/en/starter/generator.html

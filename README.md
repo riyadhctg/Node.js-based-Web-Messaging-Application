@@ -3,11 +3,11 @@ Real time chat app with nodeJS (express, socket) that support multiple clients
 
 <h2>Initializing an Express app:</h2>
 <ul>
-<li>Install Node.js https://nodejs.org/en/
--Install Express https://expressjs.com/
--Install Express Generator https://expressjs.com/en/starter/generator.html
---Follow the instruction on this page to generate an express project and when creating a express project use '-e' in the option to use EJS engine (default is Jade)
---This will generate a bunch of files including app.js and index.ejs
+ <li>Install Node.js https://nodejs.org/en/</li>
+<li>Install Express https://expressjs.com/</li>
+<li>Install Express Generator https://expressjs.com/en/starter/generator.html</li>
+<li>Follow the instruction on this page to generate an express project and when creating a express project use '-e' in the option to use EJS engine (default is Jade)</li>
+<li>This will generate a bunch of files including app.js and index.ejs</li>
  </ul>
 
 <h2>Create the real time Chat app:</h2>

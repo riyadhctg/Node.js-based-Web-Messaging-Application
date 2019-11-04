@@ -16,7 +16,7 @@ var mongoose = require('mongoose');
 
 //you can open a free account in mlab and replace the following link
 
-var dbUrl = 'mongodb://user:user@ds129090.mlab.com:29090/learning_node_riyadh'
+var dbUrl = 'mongodb://yoururl'
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
